@@ -1,0 +1,11 @@
+body {
+  font-family: system-ui;
+  background: #E6E6FA;
+  color: black;
+}
+
+span:hover{
+   background-color:white;
+   color:orange;
+   font-weight: bold;
+ } 
